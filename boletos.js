@@ -1,0 +1,16 @@
+let nombre = "juan";
+console.log("nombre:" + nombre +" "+ "\n el tipo de variable es:" + typeof(nombre));
+let apellido = "ramirez";
+console.log("apellido:" + apellido +" "+ "\n el tipo de variable es:" + typeof(apellido));
+let edad = 25;
+console.log("edad de :" + edad +" "+ "\n el tipo de variable es:" + typeof(edad));
+let numeroDeTelefono = 1144513942;
+console.log("el numero de telefono es:" + numeroDeTelefono +" "+ "\n el tipo de variable es:" + typeof(numeroDeTelefono));
+let socio = true;
+console.log("es socio:"+ socio +" "+ "\n el tipo de variable es:" + typeof(socio));
+let fechaDelPartido = "18/02/24";
+console.log("fecha del partido:" + fechaDelPartido +" "+ "\n el tipo de variable es:" + typeof(fechaDelPartido));
+let numeroDeSilla = 54;
+console.log("el numero de silla :" + numeroDeSilla +" "+ "\n el tipo de variable es:" + typeof(numeroDeSilla));
+let precioDelBoleto = 2542.50;
+console.log("El precio del boleto :" + precioDelBoleto + "\n el tipo de variable es:" + typeof(precioDelBoleto));
